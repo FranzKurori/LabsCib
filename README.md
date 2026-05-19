@@ -25,3 +25,15 @@ En este laboratorio, se demostró cómo un atacante puede espiar posibles datos 
 [Tercera imagen](ubuntu_lab3/imagenes/lab3.3.png)
 [Cuarta imagen](ubuntu_lab3/imagenes/lab3.4.png)
 [Quintaimagen](ubuntu_lab3/imagenes/lab3.5.png)
+
+
+####lab 4
+En este laboratorio, que tiene un entorno desactualizado con fines investigativos, se explora el análisis e investigación de vulnerabilidades, y aplicación de parches según su prioridad, como se vió al momento de utilizar apt upgrade-only en lugar del comun apt upgrade. Además, también se configuró el archivo de configuración de "unattended-upgrades", para permitir las actualizaciones de seguridad de forma automática. (Aquí se instaló directamente en el Dockerfile para sólo realizar la configuración dentro del contenedor)
+[Primera imagen](ubuntu_lab4/imagenes/lab4.1.png)
+[Segunda imagen](ubuntu_lab4/imagenes/lab4.2.png)
+[Tercera imagen](ubuntu_lab4/imagenes/lab4.3.png)
+[Cuarta imagen](ubuntu_lab4/imagenes/lab4.4.png)
+[Quinta imagen](ubuntu_lab4/imagenes/lab4.5.png)
+[Sexta imagen](ubuntu_lab4/imagenes/lab4.6.png)
+[Séptima imagen](ubuntu_lab4/imagenes/lab4.7.png)
+[Octava imagen](ubuntu_lab4/imagenes/lab4.8.png)
