@@ -37,3 +37,10 @@ En este laboratorio, que tiene un entorno desactualizado con fines investigativo
 [Sexta imagen](ubuntu_lab4/imagenes/lab4.6.png)
 [Séptima imagen](ubuntu_lab4/imagenes/lab4.7.png)
 [Octava imagen](ubuntu_lab4/imagenes/lab4.8.png)
+
+#####lab 5
+En este laboratorió se puso en práctica la implementación de un IDS a un sistema víctima. Se pudo observar cómo el IDS detectaba los ataques de una máquina externa, y cómo después de ciertos intentos, bloqueaba la IP del atacante.
+[Configuración del archivo jail.local](ubuntu_lab5/imagenes/lab5.0.png)
+[Primera Imagen](ubuntu_lab5/imagenes/lab5.1.png)
+[Segunda Imagen](ubuntu_lab5/imagenes/lab5.2.png)
+[Tercera Imagen](ubuntu_lab5/imagenes/lab5.3.png)
